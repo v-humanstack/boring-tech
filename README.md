@@ -11,6 +11,8 @@ las reglas tributarias de 5 países cambian rapidísimo. elegimos herramientas r
 
 * `Ruby on Rails` • `PostgreSQL` • `TypeScript` • `PHP` • `Kubernetes`
 
+https://github.com/user-attachments/assets/f4f7907d-0197-4e61-a9c6-1dade20e912f
+
 ## cómo se ve por dentro
 * **monolito rails:** el núcleo de nómina que sostiene el producto.
 * **microservicios:** para dominios específicos que requieren independencia.

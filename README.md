@@ -1,10 +1,12 @@
 # ⚙️ ¿cómo construimos nuestro producto? 
 
 para tener conversaciones reales y no solo repetir palabras clave, acá te comparto cómo está diseñada nuestra arquitectura y por qué tomamos estas decisiones.
+ 
 
+https://github.com/user-attachments/assets/a0410797-6126-4850-b6e8-396c3cf6addf
 
+## ¿buk es boring-tech? 🛠️
 
-**por qué nos gusta la "boring technology"** 🛠️
 las reglas tributarias de 5 países cambian rapidísimo. elegimos herramientas robustas para que la complejidad viva en el negocio y no en apagar incendios de infraestructura.
 
 * `Ruby on Rails` • `PostgreSQL` • `TypeScript` • `PHP` • `Kubernetes`
